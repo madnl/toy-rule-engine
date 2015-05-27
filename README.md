@@ -4,7 +4,7 @@ Basic rule engine built at the London Clojure Dojo
 
 ## Usage
 
-The only source file src/rule_engine/core.clj contains
+The only source file [src/rule_engine/core.clj](src/rule_engine/core.clj) contains
 some examples.
 
 ## License
